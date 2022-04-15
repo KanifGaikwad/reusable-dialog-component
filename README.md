@@ -1,6 +1,23 @@
 # Dialog
 ![image](https://user-images.githubusercontent.com/30699820/163574066-9479bc18-0cf0-4326-b94e-ecd83f52df44.png)
 
+### Props
+
+title: 
+```
+'A reusable Dialog in react'
+```
+footerActions: 
+```
+[
+    {
+        name: 'Save',
+        backGroundColor: '#D8E00F',
+        callback: () => {
+        }
+    }
+]  
+```
 
 # Getting Started with Create React App
 
